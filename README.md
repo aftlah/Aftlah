@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi Everyone, I'm Altaf Fattah Amanullah</h1> 
 
 <!--
 **aftlah/Aftlah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
