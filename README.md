@@ -65,6 +65,6 @@
 
 ###
 
-<p align="left">![Codewars](https://github.r2v.ch/codewars?user=AltafFattah&stroke=%23BB432C)</p>
+![Codewars](https://github.r2v.ch/codewars?user=AltafFattah&stroke=%23BB432C)
 
 ###
