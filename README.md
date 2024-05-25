@@ -2,8 +2,8 @@
 
 ###
 
-<h4 align="left">I am an informatics engineering student and also a Full Stack Web Developer</h4>
-
+<h3 align="left">I'm an Informatics Engineering Student and also a Junior Web Developer at Directorate of Information Technology, Budi Luhur University
+</h3>
 ###
 
 <h3 align="left">🛠Skill</h3>
