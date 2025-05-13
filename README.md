@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Informatics Engineering Student <br/>
-  👨‍💻 Junior Web Developer @ Directorate of Technology Information, Budi Luhur University <br/>
+  👨‍💻 Junior Web Developer @ Directorate of IT, Budi Luhur University <br/>
   🚀 Passionate about Web Development & Open Source
 </p>
 
@@ -35,12 +35,38 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Highlight Projects
+
+| Project | Deskripsi | Link |
+|--------|-----------|------|
+| 🌐 **Website Masjid At-Taqwa** | Situs informasi resmi masjid yang menampilkan jadwal sholat, kegiatan, dan fitur donasi. | [taqwa.fardias.web.id](https://taqwa.fardias.web.id) |
+| 📋 **Sistem Pendataan Kependudukan** | Aplikasi Flutter berbasis Firebase untuk pencatatan warga desa. | *(coming soon)* |
+| 🛍️ **Mini E-Commerce App** | Project fullstack sederhana menggunakan Next.js dan MongoDB. | *(coming soon)* |
+
+---
+
+## 📈 GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aftlah&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aftlah&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
 </div>
+
+---
+
+## 🏆 Achievements & Extras
+
+- 🥇 **Winner - UI/UX Design Competition** *(contoh, ubah sesuai prestasi nyata)*
+- 📢 **Speaker at Web Development Workshop**
+- 🎯 **Active contributor** in campus IT team & open source
+- 🗂️ **Built multiple apps** using React, Next.js, Laravel, Flutter
+- 🎓 **Maintains 3.8+ GPA** in Informatics Engineering *(ubah sesuai realita)*
+
+---
+
+## 📊 Visitors Count
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Aftlah&style=flat-square&color=blue)
 
 ---
 
