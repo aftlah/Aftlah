@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Informatics Engineering Student <br/>
-  👨‍💻 Junior Web Developer @ Directorate of IT, Budi Luhur University <br/>
+  👨‍💻 Junior Web Developer @ Directorate of Technology Information, Budi Luhur University <br/>
   🚀 Passionate about Web Development & Open Source
 </p>
 
