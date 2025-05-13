@@ -35,16 +35,6 @@
 
 ---
 
-## 📂 Highlight Projects
-
-| Project | Deskripsi | Link |
-|--------|-----------|------|
-| 🌐 **Website Masjid At-Taqwa** | Situs informasi resmi masjid yang menampilkan jadwal sholat, kegiatan, dan fitur donasi. | [taqwa.fardias.web.id](https://taqwa.fardias.web.id) |
-| 📋 **Sistem Pendataan Kependudukan** | Aplikasi Flutter berbasis Firebase untuk pencatatan warga desa. | *(coming soon)* |
-| 🛍️ **Mini E-Commerce App** | Project fullstack sederhana menggunakan Next.js dan MongoDB. | *(coming soon)* |
-
----
-
 ## 📈 GitHub Stats
 
 <div align="left">
@@ -56,11 +46,9 @@
 
 ## 🏆 Achievements & Extras
 
-- 🥇 **Winner - UI/UX Design Competition** *(contoh, ubah sesuai prestasi nyata)*
-- 📢 **Speaker at Web Development Workshop**
-- 🎯 **Active contributor** in campus IT team & open source
-- 🗂️ **Built multiple apps** using React, Next.js, Laravel, Flutter
-- 🎓 **Maintains 3.8+ GPA** in Informatics Engineering *(ubah sesuai realita)*
+- 🥇 **Winner - SI FEST 2024 Web Design Competition | FOI III Web Static Competition | PEMATIK 12 Web Competition**
+- 🎯 **Active contributor** in campus IT team & Budi Luhur IT Club (BLIC)
+- 🗂️ **Built multiple apps** using React, Next.js, Laravel, Flutter, ect.
 
 ---
 
